@@ -1,0 +1,14 @@
+{
+	"category" : "CC-Home",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BernardoContreras 12/17/2011 22:49",
+	"instvars" : [
+		 ],
+	"name" : "HomeSetup",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
