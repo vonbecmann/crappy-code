@@ -1,0 +1,19 @@
+{
+	"category" : "NNDatabase-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BernardoContreras 6/23/2016 15:07",
+	"instvars" : [
+		"api_key",
+		"lt",
+		"max",
+		"offset",
+		"sort",
+		"format" ],
+	"name" : "NDBListRequest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

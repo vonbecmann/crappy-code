@@ -1,0 +1,16 @@
+{
+	"category" : "NNDatabase-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BernardoContreras 6/24/2016 18:06",
+	"instvars" : [
+		"sr",
+		"type",
+		"food" ],
+	"name" : "NDBFoodReport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

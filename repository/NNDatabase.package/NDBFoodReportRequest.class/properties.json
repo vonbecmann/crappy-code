@@ -1,0 +1,17 @@
+{
+	"category" : "NNDatabase-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BernardoContreras 6/23/2016 21:09",
+	"instvars" : [
+		"api_key",
+		"ndbno",
+		"type",
+		"format" ],
+	"name" : "NDBFoodReportRequest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
