@@ -1,5 +1,7 @@
 {
 	"class" : {
-		"readFrom:" : "BernardoContreras 6/24/2016 19:58" },
+		"readFrom:" : "BernardoContreras 6/25/2016 15:47" },
 	"instance" : {
-		"readFrom:" : "BernardoContreras 6/24/2016 22:19" } }
+		"readFromFileReference:" : "BernardoContreras 6/25/2016 15:45",
+		"readFromStream:" : "BernardoContreras 6/25/2016 12:53",
+		"readFromString:" : "BernardoContreras 6/25/2016 12:54" } }

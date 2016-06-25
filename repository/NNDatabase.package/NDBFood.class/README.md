@@ -7,3 +7,6 @@ nf : nitrogen to protein factor.
 pf : protein factor.
 ff : fat factor  
 cf : carbohydrate factor
+
+nutrients : metadata elements for each nutrient included in the food report
+	
