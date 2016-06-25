@@ -4,17 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "BernardoContreras 6/24/2016 21:33",
+	"commentStamp" : "BernardoContreras 6/24/2016 19:53",
 	"instvars" : [
-		"ndbno",
-		"name",
-		"fg",
-		"nf",
-		"pf",
-		"ff",
-		"cf",
-		"nutrients" ],
-	"name" : "NDBFood",
+		 ],
+	"name" : "NDBFoodReportReader",
 	"pools" : [
 		 ],
 	"super" : "Object",
