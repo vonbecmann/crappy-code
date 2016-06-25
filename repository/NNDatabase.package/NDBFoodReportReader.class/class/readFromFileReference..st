@@ -1,3 +1,3 @@
 instance creation
-readFrom: aFileReference
+readFromFileReference: aFileReference
 	^ self new readFromFileReference: aFileReference
