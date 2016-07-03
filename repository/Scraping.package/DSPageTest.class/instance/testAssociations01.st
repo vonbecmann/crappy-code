@@ -4,6 +4,6 @@ testAssociations01
 	page := DSPage number: 2.
 	self
 		assertCollection:
-			{('limit' -> 10).
-			('offset' -> 10)}
+			{(':limit' -> 10).
+			(':offset' -> 10)}
 		hasSameElements: page associations

@@ -1,3 +1,3 @@
 converting
 associations
-	^ {('limit' -> size). ('offset' -> self offset)}
+	^ {(':limit' -> size). (':offset' -> self offset)}
